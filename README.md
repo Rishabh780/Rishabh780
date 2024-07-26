@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rishabh
 - 👀 I’m interested in codeing
-- 🌱 I’m currently learning java
+- 🌱 I’m currently working in java
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
